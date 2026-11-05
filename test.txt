@@ -1,0 +1,3 @@
+Bonjour !
+Bienvenue dans le TP9 Java.
+Nous apprenons les exceptions.
